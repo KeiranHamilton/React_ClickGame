@@ -1,0 +1,29 @@
+.navbar {
+  max-height: 70px;
+
+  width: 100%;
+
+  color: white;
+  font-size: calc(10px + 14 * (100vw - 320px) / 800);
+  z-index: 50;
+  white-space: nowrap;
+}
+
+h5 {
+  text-align: center;
+  background: red;
+  padding: 15px;
+}
+
+.lead {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.main-container {
+  background: red;
+  color: white;
+}
